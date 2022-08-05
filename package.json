@@ -1,0 +1,22 @@
+{
+  "name": "myappp",
+  "version": "1.0.0",
+  "description": "lim",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingntop/myappp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingntop/myappp/issues"
+  },
+  "homepage": "https://github.com/kingntop/myappp#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.24.2"
+  }
+}
