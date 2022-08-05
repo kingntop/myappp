@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "lim",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kingntop/myappp.git"
@@ -17,6 +15,7 @@
   },
   "homepage": "https://github.com/kingntop/myappp#readme",
   "devDependencies": {
-    "@playwright/test": "^1.24.2"
+    "@playwright/test": "^1.24.2",
+    "@types/jquery": "^3.5.14"
   }
 }
